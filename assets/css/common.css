@@ -1,0 +1,87 @@
+
+/*
+common
+------------------------------------------------------------ */
+.cont {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0;
+}
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after, .clearfix:before {
+  content: "\0020";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.clearfix:after {
+  clear: both;
+}
+.textCenter {
+  text-align: center;
+}
+@media screen and (max-width:1080px) {
+  .cont {
+    max-width: 960px;
+  }
+}
+@media screen and (max-width:860px) {
+  .cont {
+    max-width: 640px;
+  }
+}
+/*
+  text 1080
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==*/
+@media screen and (max-width:1080px) {
+  .textCenter1080 {
+    text-align: center;
+  }
+}
+/*
+  text 740
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==*/
+@media screen and (max-width:860px) {
+  .textCenter860 {
+    text-align: center;
+  }
+}
+.displayNone {
+  display: none;
+}
+.displayNoneLess1080 {
+  display: block;
+}
+.displayNoneMore1080 {
+  display: none;
+}
+.displayNoneLess860 {
+  display: block;
+}
+.displayNoneMore860 {
+  display: none;
+}
+/*
+  display None サイズ毎 1080
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==*/
+@media screen and (max-width:1080px) {
+  .displayNoneLess1080 {
+    display: none;
+  }
+  .displayNoneMore1080 {
+    display: block;
+  }
+}
+/*
+  display None サイズ毎 860
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==*/
+@media screen and (max-width:860px) {
+  .displayNoneLess860 {
+    display: none;
+  }
+  .displayNoneMore860 {
+    display: block;
+  }
+}
