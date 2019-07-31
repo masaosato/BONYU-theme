@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" />
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/common.css">
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/bonyu-check.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/faq.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
     <!-- additinal font-->
@@ -36,6 +37,7 @@
       <nav class="global-nav">
         <ul class="global-nav__list">
           <li class="global-nav__item"><a href="https://bonyu.shop/about" target="_blank">BONYU.Labとは</a></li>
+          <li class="global-nav__item"><a href="/faq" target="_blank">おっぱいQ&A</a></li>
           <li class="global-nav__item"><a href="#">母乳コラム</a>
             <ul class="menuListsUnderLists">
               <li>
@@ -64,6 +66,7 @@
             </ul>
           </li>
           <li class="global-nav__item"><a href="#">おっぱいのうわさ</a></li>
+          <li class="global-nav__item"><a href="https://forms.gle/bz9rfZjBPpTbf3m87" target="_blank">BONYU.CHECK問診票<br>（購入済みのお客様）</a></li>
         </ul>
       </nav>
       <div class="topLogoLeft">

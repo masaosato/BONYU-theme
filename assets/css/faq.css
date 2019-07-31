@@ -1,0 +1,75 @@
+/*
+faqCont
+------------------------------------------------------------ */
+.subMainViewTop.faq {
+  background-image: url(../images/background/bg-child.jpg);
+}
+.subMainViewTop.faq:after {
+  content: '';
+  background-color: rgba(255, 255, 255, 0.4);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.faqCont {
+  padding: 0px;
+  margin: 0px 0 60px 0;
+}
+ul.faqContUl {
+  list-style-type: none;
+  color: #E99976;
+  width: 800px;
+  margin: 0 auto;
+  display: block;
+}
+ul.faqContUl > li > span {
+  font-size: 20px;
+  margin: 0 10px 0 0;
+  font-weight: bold;
+  color: #E99976;
+}
+ul.faqContUl > li > span.faqLi {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 6px 0;
+  color: #E99976;
+}
+ul.faqContUl > li {
+  font-size: 16px;
+  margin: 0 20px 0 30px;
+  font-weight: 300;
+  color: #555555;
+}
+@media screen and (max-width: 860px) {
+  .faqCont {
+    background-size: auto;
+  }
+  ul.faqContUl {
+    width: 90%;
+    padding-left: 20px;
+  }
+  ul.faqContUl > li {
+    font-size: 16px;
+  }
+  ul.faqContUl > li > span {
+    font-size: 18px;
+    margin: 0 10px 0 20px;
+  }
+}
+@media screen and (max-width: 640px) {
+  ul.faqContUl {
+    width: 100%;
+    padding-left: 6px;
+  }
+  ul.faqContUl > li > span.pointLi {
+    font-size: 14px;
+    margin: 0 2px 0 0;
+  }
+  ul.faqContUl > li > span {
+    font-size: 12px;
+    margin: 0 2px;
+    font-weight: 300;
+  }
+}

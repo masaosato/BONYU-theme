@@ -18,7 +18,9 @@
       <li>
         <a href="#">BONYUからのメッセージ</a>
       </li>
-      <li class="footerMenuList"></li>
+      <li>
+        <a href="/faq">おっぱいQ&A</a>
+      </li>
       <li>
         <a href="#">BONYU.Labで出来ること</a>
         <ul class="footerMenuListsUnderLists">
@@ -37,11 +39,10 @@
         </ul>
       </li>
       <li>
-        <a href="#">おっぱいのうわさ</a>
+        <a href="https://forms.gle/bz9rfZjBPpTbf3m87">BONYU.CHECK問診票</br>（購入済みのお客様）</a>
       </li>
-      <li>
-        <a href="#">BONYU.Lab</a>
-      </li>
+      <li class="footerMenuList"></li>
+
     </ul>
   </div>
 

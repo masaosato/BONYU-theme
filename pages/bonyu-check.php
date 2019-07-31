@@ -36,7 +36,7 @@ Template Name: bonyuCheck
             食事アドバイスとともに、フィードバックします。
           </p>
         </div>
-        <div class="titleSec titleUnder">
+        <div class="titleSec">
           <h3 class="titleUnder">母乳チェックの3つのポイント</h3>
         </div>
         <div class="threeStepCont cont">

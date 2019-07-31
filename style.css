@@ -57,8 +57,6 @@ body {
 }
 .titleSec h3.titleUnder {
   border-bottom: solid 2px #E99976;
-  margin: 24px 0 16px 0;
-	margin: 1.5rem 0 1rem 0;
   max-width: 500px;
   display: block;
   margin: 0 auto;
@@ -436,11 +434,10 @@ mainView
   }
 }
 /*
-mainViewTop
+subMainViewTop
 ------------------------------------------------------------ */
-.mainViewTop {
-  height: 600px;
-  background-image: url(assets/images/background/bg-child.jpg);
+.subMainViewTop {
+  height: 200px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   -moz-background-size:cover;
@@ -461,93 +458,28 @@ mainViewTop
   top: 0;
   bottom: 0;
 }
-.viewTop {
+.subViewTop {
   position: inherit;
-  margin: 120px auto;
+  margin: 20px auto;
   z-index: 10;
   width: 600px;
 }
-.viewTop h1 {
-  font-size: 40px;
+.subViewTop h1 {
+  font-size: 30px;
   color: #E99976;
   font-weight: bold;
   text-align: center;
 }
-.viewTop h2 {
-  font-size: 20px;
-  color: #555555;
-  font-weight: 300;
-  text-align: center;
-}
-.viewTop p {
-  font-size: 20px;
+.subViewTop p {
+  font-size: 16px;
   color: #555555;
   text-align: center;
-}
-.buttonTop {
-  text-align: center;
-  margin: 80px 0 0 0;
-}
-.buttonTop.goods {
-  margin: 40px 0 0 0;
-}
-.secButton {
-  text-align: center;
-  margin: 40px 0;
-  position: inherit;
-  z-index: 10;
-}
-@media screen and (max-width:1080px) {
-  .mainViewSlide {
-    height: 500px;
-  }
-  .buttonTop {
-    text-align: center;
-    margin: 100px 0px;
-  }
-  .buttonTop.goods {
-    margin: 20px 0 0 0;
-  }
 }
 @media screen and (max-width:860px) {
-  .mainViewTop {
-    background-size: auto;
-  }
-  .viewTop {
+  .subViewTop {
     right: 0px;
     text-align: center;
     width: 100%;
-  }
-  .viewTop h1 {
-    font-size: 28px;
-    text-shadow: 1px 1px 0px #ffffff;
-  }
-  .viewTop p {
-    font-size: 16px;
-  }
-}
-@media screen and (max-width:640px) {
-  .mainViewTop {
-    height: 440px;
-  }
-  .viewTop {
-    margin: 90px 0px 0 0px;
-  }
-  .viewTop h1 {
-    font-size: 22px;
-  }
-  .viewTop p {
-    font-size: 14px;
-  }
-  .secButton {
-    margin: 40px 0;
-  }
-  .btnSquareSoft.buttonSec {
-    width: 100%;
-    font-size: 20px;
-    font-size: 18px;
-    height: 37px;
-    line-height: 35px;
   }
 }
 /*
@@ -916,14 +848,12 @@ footerMediaCont
   width: 100%;
   text-align: center;
 }
-@media screen and (max-width: 1080px) {
-  .footerMediaCont img {
-    width: 200px;
-  }
+.footerMediaCont img {
+  width: 200px;
 }
 @media screen and (max-width: 860px) {
   .footerMediaCont img {
-    width: 30%;
+    width: 150px;
   }
 }
 /*

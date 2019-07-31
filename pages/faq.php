@@ -9,281 +9,236 @@ Template Name: faq
     <div class="main">
 
       <!-- ======== main visual ======== -->
-      <section class="mainViewTop">
-        <div class="viewTop">
+      <section class="subMainViewTop faq">
+        <div class="subViewTop">
           <h1>
-            母乳の栄養は、みんな違う。
+            現役助産師の相談窓口。
           </h1>
-          <h2>
-            日本初! 母乳栄養検査キット | BONYU.CHECK
-          </h2>
-          <div class="buttonTop">
-            <a href="https://bonyu.shop/items/5d2ae44b66d86c77b7e06b29" class="btnSquareSoft" target="_blank">
-              <img src="<?php echo get_template_directory_uri(); ?>/assets/images/buttonCheckIcon.png" alt="">母乳チェックする
-            </a>
-          </div>
+          <p>
+
+          </p>
         </div>
       </section>
       <!-- ======== /main visual ======== -->
 
-      <!-- ======== 3step ======== -->
-      <section class="threestep sectionCont">
-        <div class="subtitleSec">
-          <p>
-            当社独自技術の母乳栄養検査と母子問診を組み合わせて、<br>
-            母乳を分析し栄養取得状況をカテゴリにわかりやすく分類。<br>
-            母乳の栄養分析結果を管理栄養士による<br>
-            食事アドバイスとともに、フィードバックします。
-          </p>
-        </div>
-        <div class="titleSec titleUnder">
-          <h3 class="titleUnder">母乳チェックの3つのポイント</h3>
-        </div>
-        <div class="threeStepCont cont">
-          <div class="threeStepContent">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/3step1-2.jpg" alt="">
-            <div class="threeStepContTxt">
-              <h3>
-                1.自宅で簡単にできる検査キット
-              </h3>
-              <p>
-                母乳を採取して冷凍で送るだけ。<br>
-                自宅で簡単にできる検査キット。
-              </p>
-            </div>
-          </div>
-
-          <div class="threeStepContent">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/3step2.jpg" alt="">
-            <div class="threeStepContTxt">
-              <h3>
-                2.検査+問診で複合的に分析
-              </h3>
-              <p>
-                母乳の状態に影響を与えると<br>
-                予想される体調やライフスタイル<br>
-                要素を問診で把握し、母乳の<br>
-                栄養データ (3大栄養素+脂肪酸比) と<br>
-                照合し分析。
-              </p>
-            </div>
-          </div>
-
-          <div class="threeStepContent">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/3step3.jpg" alt="">
-            <div class="threeStepContTxt">
-              <h3>
-                3.実践しやすい食事指導
-              </h3>
-              <p>
-                検査結果に沿って管理栄養士が<br>
-                食事のアドバイスをフィードバック。<br>
-                もっと摂取したほうがいい食材や<br>
-                アイディアをアドバイス。
-              </p>
-            </div>
-          </div>
-
-          <div class="secButton">
-            <a href="https://bonyu.shop/items/5d2ae44b66d86c77b7e06b29" class="btnSquareSoft buttonSec" target="_blank">
-              <img src="<?php echo get_template_directory_uri(); ?>/assets/images/buttonCheckIcon.png" alt="">母乳チェックする
-            </a>
-          </div>
-
-        </div>
-      </section>
-      <!-- ======== /3step ======== -->
-
-      <!-- ======== video ======== -->
-      <section class="video sectionCont">
+      <!-- ======== faq ======== -->
+      <section class="faqCont sectionCont">
         <div class="titleSec">
-          <h3>ナゾだらけのおっぱい</h3>
-          <p>もっと研究して、明らかにしていこう、みんなで。</p>
+          <h3 class="titleUnder">現役助産師の相談窓口。</h3>
         </div>
-        <div class="topMovieCont">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/GdzOTg6eEMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      </section>
-      <!-- ======== /video ======== -->
+        <div class="faqContent">
+          <ul class="faqContUl">
+            <li>
+              <span class="faqLi">母乳のお話 1</span>
+              <br>
+              <span>Q.</span>母乳の方が、ミルクよりいいですか？</span>
+              <br />
+              <span>A.</span>
+              母乳は、赤ちゃんにとって最適な栄養源です。
+              ネットや様々な文献をみても、母乳の利点については数多くの事が書かれています。
+              いまや、母乳は科学的に研究され、赤ちゃんだけでなく、人間のヘルスケアに幅広く活用されています。
 
-      <!-- ======== Knowing things ======== -->
-      <!-- <section class="3step">
-        <div class="titleSec">
-          <h3>BONYU.CHECKで調べること、わかること</h3>
-        </div>
-      </section> -->
-      <!-- ======== /Knowing things ======== -->
+              でも、母乳をあげたくてもあげることができなかった。
+              思うように母乳がでなかった、母乳だけになると、授乳が辛かった。
+              そんな事もあると思います。
+              私自身は、もちろん母乳を推奨しますが、
+              足りなかったり、すごく疲れたり、そんな時は、ミルクに頼ってくださいと言っています。
+              日本のミルク会社さん達も、ものすごく研究しています。
+              <br />
+              <br />
+            </li>
+            <li>
+              <span class="faqLi">母乳のお話 2</span>
+              <br>
+              <span>Q.</span>母乳は、赤ちゃんにとって最適な栄養源なのか？</span>
+              <br />
+              <span>A.</span>
+              母乳には、免疫物質、ホルモン、消化酵素、成長因子、タンパク質、脂肪、その他にも様々な栄養素が含まれています。
+              もちろん、ウイルスや細菌も含まれていることがありますので、妊娠中に、ママは検査で感染症のチェックをしています。
 
-      <!-- ======== 6points ======== -->
-      <section class="sixPoints sectionCont">
-        <div class="titleSec">
-          <h3>サービスの6つの特徴</h3>
-        </div>
-        <div class="sixPointsCont">
-          <ul class="sixPointsUl">
-            <li>
-              <span class="pointLi">point</span> 1 <span>自宅でカンタン検査!</span>
+              よく、ママたちに聞かれるのが、免疫物質について。
+              特に、初乳と言われる、生後数日の母乳に多く含まれています。
+              赤ちゃんはママのお腹の中にいる時に、病気に対する免疫（抵抗力）をもらって産まれてきます。この免疫は、産まれてから徐々に減っていき、自分で免疫を獲得していくまでは、母乳で免疫を補っていくのです。
+              また、赤ちゃんを守ってくれる母乳の物質は、様々な臓器に働きかけることで、感染症やアレルギー発症の予防効果があると考えられています。腸では、善い腸内細菌を作り、腸の健康が、脳の発達に影響を及ぼすという研究結果もでています。
+
+              母乳だけでは守りきれない感染症もありますので、予防接種など、赤ちゃんの時期に応じた感染予防は、地域の保健師さんや小児科の先生に相談をしてみましょう。
+
+              <br />
+              <br />
             </li>
             <li>
-              <span class="pointLi">point</span> 2 <span>検査+問診で栄養取得状況の傾向を分析</span>
+              <span class="faqLi">母乳のお話 3</span>
+              <br>
+              <span>Q.</span>母乳がでる仕組みをわかりやすく教えてほしいです。</span>
+              <br />
+              <span>A.</span>
+              思うように母乳が出てこない、赤ちゃんがずっと泣いていて、母乳が足りないのかな。
+              そう思っているママ達も多いと思います。
+
+              まずは、母乳がでる仕組みから、お話をさせてください。
+
+              母乳は、乳房にある乳腺と呼ばれる組織の中で、ママの血液から作られます。
+
+              赤ちゃんが産まれて胎盤がはがれると、母乳が産生され始めるシステムになっていて、
+              プロラクチンというホルモンが深く関係しています。
+              プロラクチンは、授乳をしないと数日〜数週間で、妊娠前のレベルに戻ってしまいます。
+
+              ですので、赤ちゃんが産まれたら、まだ母乳が出ていなくても、授乳を開始することが大切です。
+              プロラクチンは授乳をする事で上昇し、3時間ほどで下がってしまいます。
+              生後1週間ほどは、あまり時間を空けずに（3〜4時間以内で）授乳をすることで、血液中のプロラクチンが高くなり、これを効率的に使用するための受容体の数も増え、母乳がよくでるようになるのです。
+
+              お産後に、赤ちゃんと離れ離れで過ごさないといけない場合は、乳頭（乳首）を刺激したり、搾乳をする事でもホルモン値をあげることができます。
+
+              1週間を過ぎた頃からは、母乳は、必要な分を作ろうとするようなシステムに変わってきます。赤ちゃんが飲む分作って、飲まなかったり、授乳をしなければ、自分で分泌を抑制しようとします。
+              生後1ヶ月くらいかけて母乳の量は増えてきますので、ママも眠れなくてきついとは思いますが、できるだけ、母乳を飲ませてあげてください。そうすると、必要な分、母乳は作られるようになってきます。
+              <br />
+              <br />
             </li>
             <li>
-              <span class="pointLi">point</span> 3 <span>6カテゴリ分類でわかりやすいレポート</span>
+              <span class="faqLi">母乳のお話 4</span>
+              <br>
+              <span>Q.</span>どうやったら、母乳がでるようになりますか？</span>
+              <br />
+              <span>A.</span>
+              母乳がよくでるようになる、ハーブティー、食事、マッサージ。
+              様々な事を耳にすると思います。
+
+              私がお勧めしているのは
+              ①分泌を促すホルモン（プロラクチン・オキシトシン）を出やすくする。
+              ・とにかく、赤ちゃんによく飲んでもらう
+              ・授乳の前に、温かくしたタオルなどで、おっぱい全体を温める。
+              ・授乳の前や授乳をしているときに、おっぱいをマッサージする（ほぐす）。
+              ・ストレスを和らげる環境を作る。
+              ②食べ物・飲み物
+               「これを食べたら、おっぱいがよくでるようになる！」
+              という食べ物や飲み物があれば、オススメしたいですが、残念ながら確実なものはありません。
+              基本的には、母乳は血液からできており、乳房の血液循環をよくすることで、母乳の産生も増加します。ですので、母乳がよくでるようになると言われているハーブティーや食べ物は、身体の中の血液の流れを良くしてくれるものです。
+                私たちは、祖先から受け継いだ消化酵素をもっていて、地のものを食べて、消化吸収し、身体を構成しています。私はよく、土の下で育つ野菜（根菜類）を、お味噌汁にたっぷりといれて、摂ることをお勧めしています。
+              ③マッサージ
+               日本では、昔から、おっぱいをマッサージすることが主流となっています。
+               〇〇式、〇〇流など、様々なマッサージ法があります。現に「マッサージを受けると、母乳がよくでるようになる」事はよくあります。
+               困ったら、近くの助産師さんにマッサージを受けるのも、一つの手でしょう。基本的には、乳房の循環を良くして、分泌を促す事を目的としているため、固く締め付けられるようなブラジャーを外して、動いていれば、自然にマッサージになっているものです。
+              <br />
+              <br />
             </li>
             <li>
-              <span class="pointLi">point</span> 4 <span>管理栄養士の食事アドバイスをフィードバック</span>
+              <span class="faqLi">母乳のお話 5</span>
+              <br>
+              <span>Q.</span>「おっぱいは、どれくらいの時間吸わせていたらいいですか？」</span>
+              <br />
+              <span>A.</span>
+              おっぱいの時間は、ママと赤ちゃんにとって、とても大切な時間です。
+              赤ちゃんが満足するまで、好きなだけ、吸わせてください。
+
+              このように返答したいものですが、ママの時間も限られています。
+              乳首も吸われすぎて痛くなってくる事もあります。
+
+              母乳外来をしていると、ママ達から、
+              ・左右5分ずつ吸わせて、まだ飲みそうだったらまた5分ずつ吸わせるように言われました
+              ・30分も吸わせているのは母乳が足りないとからだと言われました
+              という意見をよく耳にします。
+
+              専門家の意見、ネットにも様々な事が書いてあります。
+              時代がそうさせるのか、スマホの時計やタイマーと睨めっこしながら、授乳をしているママをよく見かけます。
+
+              ママと赤ちゃんの状態によって違うので、何分吸わせるのが正解という事はありません。
+              赤ちゃんも、サクッと飲んでしまうこともあれば、ママに甘えながら、ゆっくりと飲んでいる時もあります。
+
+              できれば、時計と睨めっこするのではなく、赤ちゃんの様子を見ながら、
+              「休憩が多くなってきたな」「満足そうな顔になってきたな」を終了の合図にしてもらえればなと思います。
+
+              休む暇なく授乳をしていて、赤ちゃんが全く寝ない、おしっこやウンチが少ないなどがあれば、赤ちゃんは必要な量の母乳を飲めていない可能性もありますので、専門家に相談してみましょう。
+              <br />
+              <br />
             </li>
             <li>
-              <span class="pointLi">point</span> 5 <span>産後のお母さんに不足しがちな栄養を補うサプリも用意</span>
+              <span class="faqLi">母乳のお話 6</span>
+              <br>
+              <span>Q.</span>「赤ちゃんが、片方のおっぱいを飲んだら寝てしまうのですが、どうしたらいいですか？」</span>
+              <br />
+              <span>A.</span>
+              「片方のおっぱいを赤ちゃんが満足するまであげていると、もう片方を飲まないで寝てしまうことがあります。片方のおっぱいで満足する前に、反対側のおっぱいにかえましょう。」
+              病院や、地域の保健師さんから、このように言われるママは多いと思います。
+              私は、これを「授乳5分説」と呼んでいます。
+
+              実際に、おっぱいから直接母乳を飲むためには、哺乳瓶を使用して飲むよりも7〜8倍の力がいると言われています。
+              ですので、赤ちゃんは、哺乳瓶のように一気飲みをせずに、片方のおっぱいで力尽きて寝てしまい、だけどすぐにお腹が空いて、１時間経たずに起きて、また欲しがります。
+              特に、生後1ヶ月くらいまでは、胃袋も小さく、哺乳力も十分ではなく、ありがちな事です。
+
+              「では、どうしたらいいですか？」
+
+              片方ずつでいいんです。
+
+              実は、母乳は、最初に出てくる母乳（前乳）と最後の方に出てくる母乳（後乳）では、成分が違います。
+              後乳には、脂肪成分が多く含まれており、母乳中の脂肪は、赤ちゃんの摂取カロリーの半分を占めています。また、脂肪成分の中には、必須脂肪酸や脂溶性ビタミンなど、赤ちゃんの成長に欠かせない栄養素が含まれていますので、できれば、最後の後乳まで、しっかりと授乳してあげてください。
+
+              片方のおっぱいを飲んでいて、休憩が多くなってきたり、赤ちゃんの目が眠そうになってきたりしたら、そっと乳首を外して、飲みそうであれば、もう片方のおっぱいを飲ませましょう。飲まない場合は、次の授乳で飲んでいない方からあげましょう。
+              おっぱいがとても張っている時期では、片方だけの授乳だと、もう片方のおっぱいが張って辛い場合があります。痛くて辛い時は、少量だけ搾乳をして、痛みをとるようにしましょう。搾りすぎると、また張ってきますので、少し軽くなる程度でやめておきましょう。
+
+              こまめに授乳をするのも大変だとは思いますが、赤ちゃんの成長とともに、胃袋も大きくなり、哺乳力も増してきます。それまでは、まわりの方の力も借りながら、授乳を続けていただけたらなと思います。
+              <br />
+              <br />
             </li>
             <li>
-              <span class="pointLi">point</span> 6 <span>みんなで謎を解明していく</span>
+              <span class="faqLi">母乳のお話 7</span>
+              <br>
+              <span>Q.</span>「母乳だけだと、ミルクを飲まなくなりますか？」</span>
+              <br />
+              <span>A.</span>
+              ・母乳だけを飲ませていて、健診の時に、ミルクを足してくださいと言われたけど、
+              哺乳瓶でミルクをあげようとすると全然飲まない。
+              ・ミルクを飲まないから、赤ちゃんを預けることができなくて、苦労した。
+
+              こういった理由で、混合栄養を希望するママ達も多いです。
+
+              いつも、フレッシュな母乳を飲んでいたのに、突然、味が違うミルクを、
+              しかも、いつものママのおっぱいからではなく、哺乳瓶で差し出されると、
+              赤ちゃんは少なからず混乱します。泣き叫んで、拒む赤ちゃんもいます。
+              中には、何でも大丈夫！って赤ちゃんもいます。
+
+              赤ちゃんをどうしても預けないといけない予定がある時や、保育園に預ける時期が近づいて来た時には、少しずつ、月齢にあった哺乳瓶またはベビーマグなどを使って、ミルクまたは搾乳をあげてみましょう。なかなか飲まない時は、コップやスプーンで少量ずつ与えてみましょう。
+
+              実際に、母乳は足りているけれど、哺乳瓶に慣れさせるために1日1回はミルクを足したい、というママは多いです。でも、実際には、1日1回ミルクを作るのが面倒だったり、ミルクを飲ませて授乳間隔が空くと、おっぱいが張って辛かったという意見も聞きます。
+
+              私としては、ママの大変さも分かりますが、ミルクは、必要であれば、必要な時に足すようになると、いっぱい母乳が飲めるのになと思っています。
+              <br />
+              <br />
             </li>
           </ul>
         </div>
-        <div class="secButton">
-          <a href="https://bonyu.shop/items/5d2ae44b66d86c77b7e06b29" class="btnSquareSoft buttonSec" target="_blank">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/images/buttonCheckIcon.png" alt="">母乳チェックする
-          </a>
-        </div>
       </section>
-      <!-- ======== /6points ======== -->
+      <!-- ======== /faq ======== -->
 
-      <!-- ======== lineUps ======== -->
-      <section class="lineUps sectionCont">
+
+      <!-- ======== profile ======== -->
+      <section class="faqCont sectionCont">
         <div class="titleSec">
-          <h3 class="titleCircle">2つのサービス</h3>
+          <h3 class="titleUnder">古澤 真理  フルサワ マリ</h3>
         </div>
-        <div class="lineUpsCont cont">
-
-          <div class="lineUpCont">
-            <div class="lineUpImg">
-              <img src="<?php echo get_template_directory_uri(); ?>/assets/images/lineUp1-2.jpg" alt="">
-            </div>
-            <div class="lineUpTxt">
-              <p>自分の母乳の状態を知る</p>
-              <h4>BONYU.CHECK</h4>
-              <p>日本初! 母乳栄養検査キット | 母乳チェック</p>
-              <p>
-                3大栄養素 + 脂肪酸（アラキドン酸/DHA）のバランスを当社独自の技術で検査。
-                母子問診の回答と合わせて分析。
-                栄養取得状況をわかりやすいカテゴリに分類し、
-                管理栄養士による食事のアドバイスと共にフィードバックします。
-              </p>
-              <div class="buttonTop goods">
-                <a href="https://bonyu.shop/items/5d2ae44b66d86c77b7e06b29" class="btnSquareSoft buttonFullWidth" target="_blank">
-                  商品を見る
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <div class="lineUpCont">
-            <div class="lineUpImg">
-              <img src="<?php echo get_template_directory_uri(); ?>/assets/images/lineUp2-2.jpg" alt="">
-            </div>
-            <div class="lineUpTxt">
-              <p>お母さんもしっかり栄養</p>
-              <h4>MOM.PLUS</h4>
-              <p>授乳期のお母さんのサプリメント | ママプラス</p>
-              <p>
-                産後、身体の回復に必要な栄養を十分摂取できていますか？
-                ママプラスは授乳期に不足しがちな栄養素を補うサプリメントです。
-                規則正しい食事が基本ですが、ストレスや不安を感じる時の選択肢としてご活用ください。
-              </p>
-              <div class="buttonTop goods">
-                <a href="https://bonyu.shop/items/5d2ae8b4083829432f829161" class="btnSquareSoft buttonFullWidth" target="_blank">
-                  商品を見る
-                </a>
-              </div>
-            </div>
-          </div>
-
+        <div class="faqContent">
+          <ul class="faqContUl">
+            <li>
+              <span class="faqLi">プロフィール</span>
+              <br>
+              福岡県出身。<br>
+              子供の頃、父親が長期入院をしたことで看護師を志し、看護実習や従姉妹の姉の影響で助産師への道を選びました。
+              助産師の免許取得後、福岡の大学病院でNICU（新生児集中治療室）勤務となり、ママと赤ちゃんを繋ぐ母乳の役割に興味をもちました。
+              その後、産科へ異動し、母乳がママや赤ちゃんにもたらす影響について研究し、益々、母乳についての興味が湧き、2018年にIBCLC（国際認定ラクテーションコンサルタント）の資格を取得しました。
+              5年前から、東京の病院で助産師として勤務し、日々、ママと赤ちゃん、そのご家族に関わっています。
+              <br />
+              <br />
+              2005年 助産師免許取得 福岡大学病院 NICU勤務<br />
+              2006年 福岡大学病院 総合周産期母子医療センター 産科部門勤務<br />
+              2009年 退職しカナダにワーキングホリデー<br />
+              2010年 福井産婦人科（3ヶ月）その後、福岡大学病院勤務<br />
+              2014年 昭和大学江東豊洲病院 周産期センター勤務<br />
+              2017年 アドバンス助産師認定<br />
+              2018年 IBCLC取得<br />
+            </li>
+          </ul>
         </div>
       </section>
-      <!-- ======== /lineUps ======== -->
-
-      <!-- ======== history ======== -->
-      <section class="history sectionCont">
-        <div class="titleSec">
-          <h3>沿革・メディア</h3>
-        </div>
-        <div class="historyContImg">
-          <img src="<?php echo get_template_directory_uri(); ?>/assets/images/history1.jpg" alt="">
-        </div>
-
-        <div class="historyCont cont">
-          <div class="historyContTxt">
-            <ul class="timeline">
-              <li>
-                <p class="timeline-date">2018年3月</p>
-                <div class="timeline-content">
-                  <h5>母乳で悩んだ自身の経験から創業</h5>
-                </div>
-              </li>
-              <li>
-                <p class="timeline-date">2018年10月</p>
-                <div class="timeline-content">
-                  <h5>2018年10月株式会社として登記</h5>
-                </div>
-              </li>
-              <li>
-                <p class="timeline-date">2018年12月</p>
-                <div class="timeline-content">
-                  <h5>サービス説明動画アップ・β版発売</h5>
-                  <p>https://youtu.be/GdzOTg6eEMA</p>
-                </div>
-              </li>
-              <li>
-                <p class="timeline-date">2019年1月</p>
-                <div class="timeline-content">
-                  <h5>CES(米国・テクノロジー展示会)</h5>
-                </div>
-              </li>
-              <li>
-                <p class="timeline-date">2019年7月17日</p>
-                <div class="timeline-content">
-                  <h5>サービス(Bonyu.Check)ローンチ</h5>
-                </div>
-              </li>
-              <li>
-                <p class="timeline-date">2019年8月1日</p>
-                <div class="timeline-content">
-                  <h5>「おっぱいの日」第一回目開催</h5>
-                </div>
-              </li>
-            </ul>
-          </div>
-
-          <div class="historyContTxtRight">
-            <ul>
-              <li>
-                EURECA PARKのJ-START UPエリアにてモックを展示<br>
-                <span>https://ces-news.info/health/bonyu-lab/</span>
-              </li>
-              <li>
-                アメリカのニュースメディアに紹介される(TGCN)<br>
-                <span>https://m.youtube.com/watch?v=S_K8wo_UK9c&feature=youtu.be
-              </li>
-              <li>
-                米国版Forbes Online取材<br>
-                <span>https://www.forbes.com/sites/japan/2019/03/21/how-japans-healthcare-solutions-are-advancing-our-everyday-life/</span>
-              </li>
-              <li>
-                首相官邸広報動画インタビュー<br>
-                <span>https://www.youtube.com/channel/UCnEQRcFpr2E926ZSZl31uXA</span>
-              </li>
-              <li>
-                PRESIDENT WOMAN online<br>
-                <span>https://president.jp/articles/-/29126</span>
-              </li>
-
-            </ul>
-          </div>
-        </div>
-
-      </section>
-      <!-- ======== /history ======== -->
+      <!-- ======== /profile ======== -->
 
     </div>
     <!-- ======== /main cont ======== -->

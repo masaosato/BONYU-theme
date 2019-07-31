@@ -68,9 +68,9 @@
 
             </li>
             <li class="content1-2">
-
+              <a href="/faq">
                 <img src="<?php echo get_template_directory_uri(); ?>/assets/images/menuTitle7-2.jpg" alt="おっぱいQ&A">
-
+              </a>
             </li>
             <li class="content1-2">
 

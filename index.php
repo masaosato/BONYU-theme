@@ -10,7 +10,7 @@
           <div class="topVisual">
             <div class="topVisualContLeft">
               <div id="topCloudLeft">
-                <a href="#">
+                <a href="/faq">
                   <div class="topCloudLeftBg textCenter"></div>
                 </a>
               </div>
@@ -55,11 +55,13 @@
 
             <li class="menuListsLi underList">
 
+              <a href="/faq">
                 <div class="menuListCont" id="menuListCont3">
                   <span>
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/subMenuList6-2.png" alt="おっぱいQ&A">
                   </span>
                 </div>
+              </a>
 
             </li>
 
